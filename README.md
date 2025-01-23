@@ -24,7 +24,7 @@ Create virtual env
 python3 -m venv envname
 ```
 
-Activate env  #On Ubuntu
+Activate env  (Linux)
 
 ```bash
 source envname/bin/activate
